@@ -2187,6 +2187,8 @@
       "https://ik.imagekit.io/drrp/sprites/tenko/31.png#sprite",
       "https://ik.imagekit.io/drrp/sprites/tenko/32.png#sprite"
       ],
+
+      
       
       "tsumugi": [
       "https://ik.imagekit.io/drrp/sprites/tsumugi/00.png#sprite",
@@ -2224,5 +2226,81 @@
       "https://ik.imagekit.io/drrp/sprites/tsumugi/32.png#sprite",
       "https://ik.imagekit.io/drrp/sprites/tsumugi/33.png#sprite",
       "https://ik.imagekit.io/drrp/sprites/tsumugi/34.png#sprite"
-      ]
+      ],
+
+      "monodam": [
+        "https://ik.imagekit.io/drrp/sprites/monodam/00.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/01.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/02.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/03.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/04.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/05.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/06.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/07.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/08.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/09.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monodam/10.png#sprite"
+        ],
+        
+        "monokid": [
+        "https://ik.imagekit.io/drrp/sprites/monokid/00.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/01.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/02.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/03.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/04.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/05.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/06.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/07.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/08.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/09.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/10.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monokid/11.png#sprite"
+        ],
+        
+        "monophanie": [
+        "https://ik.imagekit.io/drrp/sprites/monophanie/00.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/01.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/02.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/03.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/04.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/05.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/06.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/07.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/08.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/09.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/10.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/11.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/12.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monophanie/13.png#sprite"
+        ],
+        
+        "monosuke": [
+        "https://ik.imagekit.io/drrp/sprites/monosuke/00.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/01.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/02.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/03.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/04.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/05.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/06.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/07.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/08.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monosuke/09.png#sprite"
+        ],
+        
+        "monotaro": [
+        "https://ik.imagekit.io/drrp/sprites/monotaro/00.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/01.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/02.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/03.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/04.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/05.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/06.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/07.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/08.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/09.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/10.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/11.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/12.png#sprite",
+        "https://ik.imagekit.io/drrp/sprites/monotaro/13.png#sprite"
+        ]
   }
