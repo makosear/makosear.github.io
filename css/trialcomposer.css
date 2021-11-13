@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    font-size:16px
+}
+html,body,#wrapper,.composer{
+    height:100%
+}
+.composer{
+    display:-webkit-box;
+    display:flex;
+    -webkit-box-orient:horizontal;
+    -webkit-box-direction:normal;
+    flex-direction:row
+}
+.composer .composition{
+    -webkit-box-flex:0;
+    flex:0 0 auto;
+    display:-webkit-box;
+    display:flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    flex-direction:column;
+    width:50%;
+    min-width:370px
+}
+.composer .composition .preview{
+    overflow:auto;
+    -webkit-box-flex:1;
+    flex:1 1 auto
+}
+.composer .composition .raw-markdown{
+    -webkit-box-flex:0;
+    flex:0 0 auto
+}
+.composer .editing{
+    -webkit-box-flex:1;
+    flex:1 1 auto
+}
+.sprite,.add-sprite{
+    height:120px;
+    width:160px;
+    -o-object-fit:cover;
+    object-fit:cover;
+    cursor:pointer
+}
+.preview p{
+    overflow:hidden;
+    margin:10px
+}
+.preview p textarea{
+    width:170px;
+    background-color:#eee;
+    border:0 none;
+    resize:vertical
+}
+.preview .sprite,.preview .add-sprite{
+    float:left;
+    margin-right:10px;
+    border-right:1px solid #000
+}
+.preview .add-sprite{
+    color:#bbb;
+    background-color:#eee;
+    border:0 none
+}
+.preview .bullet{
+    position:relative;
+    display:inline-block;
+    margin:2px;
+    margin-left:6px;
+    padding:4px 10px;
+    padding-right:52px;
+    font-weight:bold;
+    text-decoration:none !important;
+    color:#000;
+    background-color:#ffe400;
+    box-shadow:inset -3px 3px rgba(255,228,0,0.75),inset -2px 5px rgba(255,255,255,0.75);
+    border:2px solid #000;
+    border-top-left-radius:6px 50%;
+    border-bottom-left-radius:6px 50%;
+    border-top-right-radius:36px 50%;
+    border-bottom-right-radius:36px 50%
+}
+.preview .bullet::before,.preview .bullet::after{
+    content:'';
+    position:absolute;
+    border:2px solid #000;
+    border-top-left-radius:6px 50%;
+    border-bottom-left-radius:6px 50%
+}
+.preview .bullet::before{
+    z-index:-1;
+    left:-7px;
+    top:-3px;
+    bottom:-3px;
+    width:13px;
+    background-color:#ffe400;
+    border-top-right-radius:3px 50%;
+    border-bottom-right-radius:3px 50%
+}
+.preview .bullet::after{
+    top:-2px;
+    bottom:-2px;
+    right:32px;
+    width:10px;
+    border-width:2px 0 2px 2px
+}
+.preview .bullet+span{
+    display:block;
+    margin-left:6px;
+    padding:10px;
+    border-left:3px solid #000
+}
+body.red-bullet .preview .bullet{
+    background-color:#700;
+    color:#fff;
+    box-shadow:inset -3px 3px rgba(119,0,0,0.75),inset -2px 5px rgba(255,255,255,0.75)
+}
+body.red-bullet .preview .bullet::before{
+    background-color:#700
+}
+.preview .bullet input{
+    background-color:transparent
+}
+.editing{
+    display:-webkit-box;
+    display:flex
+}
+.editing .sprite-selector{
+    -webkit-box-flex:1;
+    flex:1 1 auto;
+    display:-webkit-box;
+    display:flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    flex-direction:column
+}
+.editing .sprite-selector>select{
+    -webkit-box-flex:0;
+    flex:0 0 auto;
+    padding:0 4px;
+    width:100%;
+    font-size:1.2rem;
+    line-height:2rem
+}
+.editing .sprite-selector .sprites{
+    -webkit-box-flex:1;
+    flex:1 1 auto;
+    overflow:auto;
+    padding:10px;
+    text-align:center
+}
+.editing .sprite{
+    display:inline-block;
+    vertical-align:top;
+    margin:4px;
+    width:170px;
+    height:150px
+}
+.editing .sprite:hover{
+    background-color:#eee
+}
+/*# sourceMappingURL=trialcomposer.css.map */
