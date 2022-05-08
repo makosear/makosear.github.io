@@ -1,0 +1,15 @@
+{
+  "name": "monosuke",
+  "sprites": {
+    "00.png": "https://ik.imagekit.io/drrp/sprites/monosuke/00.png",
+    "01.png": "https://ik.imagekit.io/drrp/sprites/monosuke/01.png",
+    "02.png": "https://ik.imagekit.io/drrp/sprites/monosuke/02.png",
+    "03.png": "https://ik.imagekit.io/drrp/sprites/monosuke/03.png",
+    "04.png": "https://ik.imagekit.io/drrp/sprites/monosuke/04.png",
+    "05.png": "https://ik.imagekit.io/drrp/sprites/monosuke/05.png",
+    "06.png": "https://ik.imagekit.io/drrp/sprites/monosuke/06.png",
+    "07.png": "https://ik.imagekit.io/drrp/sprites/monosuke/07.png",
+    "08.png": "https://ik.imagekit.io/drrp/sprites/monosuke/08.png",
+    "09.png": "https://ik.imagekit.io/drrp/sprites/monosuke/09.png"
+  }
+}

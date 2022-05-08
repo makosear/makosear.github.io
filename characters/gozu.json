@@ -1,0 +1,13 @@
+{
+  "name": "gozu",
+  "sprites": {
+    "00.png": "https://ik.imagekit.io/drrp/sprites/gozu/00.png",
+    "01.png": "https://ik.imagekit.io/drrp/sprites/gozu/01.png",
+    "02.png": "https://ik.imagekit.io/drrp/sprites/gozu/02.png",
+    "03.png": "https://ik.imagekit.io/drrp/sprites/gozu/03.png",
+    "04.png": "https://ik.imagekit.io/drrp/sprites/gozu/04.png",
+    "05.png": "https://ik.imagekit.io/drrp/sprites/gozu/05.png",
+    "06.png": "https://ik.imagekit.io/drrp/sprites/gozu/06.png",
+    "07.png": "https://ik.imagekit.io/drrp/sprites/gozu/07.png"
+  }
+}
