@@ -1,0 +1,21 @@
+name: Publish to Github Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v1
+
+      - name: Build and deploy
+        uses: sterlingwes/gh-pages-deploy-action@v1.1
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          build-command: npm run build
+          deploy-branch: gh-pages
+          source-directory: dist

@@ -1,0 +1,42 @@
+{
+  "name": "angie",
+  "flairs": {
+    "base": "flair-angie"
+  },
+  "sprites": [
+    {
+      "type": "busts",
+      "attr_notice": "©Spike Chunsoft Co., Ltd. All Rights Reserved.",
+      "attr_href": "https://www.spike-chunsoft.co.jp/",
+      "flair": "base",
+      "files": {
+        "000": "https://ik.imagekit.io/drrp/sprites/angie/00.png",
+        "001": "https://ik.imagekit.io/drrp/sprites/angie/01.png",
+        "002": "https://ik.imagekit.io/drrp/sprites/angie/02.png",
+        "003": "https://ik.imagekit.io/drrp/sprites/angie/03.png",
+        "004": "https://ik.imagekit.io/drrp/sprites/angie/04.png",
+        "005": "https://ik.imagekit.io/drrp/sprites/angie/05.png",
+        "006": "https://ik.imagekit.io/drrp/sprites/angie/06.png",
+        "007": "https://ik.imagekit.io/drrp/sprites/angie/07.png",
+        "008": "https://ik.imagekit.io/drrp/sprites/angie/08.png",
+        "009": "https://ik.imagekit.io/drrp/sprites/angie/09.png",
+        "010": "https://ik.imagekit.io/drrp/sprites/angie/10.png",
+        "011": "https://ik.imagekit.io/drrp/sprites/angie/11.png",
+        "012": "https://ik.imagekit.io/drrp/sprites/angie/12.png",
+        "013": "https://ik.imagekit.io/drrp/sprites/angie/13.png",
+        "014": "https://ik.imagekit.io/drrp/sprites/angie/14.png",
+        "015": "https://ik.imagekit.io/drrp/sprites/angie/15.png",
+        "016": "https://ik.imagekit.io/drrp/sprites/angie/16.png",
+        "017": "https://ik.imagekit.io/drrp/sprites/angie/17.png",
+        "018": "https://ik.imagekit.io/drrp/sprites/angie/18.png",
+        "019": "https://ik.imagekit.io/drrp/sprites/angie/19.png",
+        "020": "https://ik.imagekit.io/drrp/sprites/angie/20.png",
+        "021": "https://ik.imagekit.io/drrp/sprites/angie/21.png",
+        "022": "https://ik.imagekit.io/drrp/sprites/angie/22.png",
+        "023": "https://ik.imagekit.io/drrp/sprites/angie/23.png",
+        "024": "https://ik.imagekit.io/drrp/sprites/angie/24.png",
+        "025": "https://ik.imagekit.io/drrp/sprites/angie/25.png"
+      }
+    }
+  ]
+}

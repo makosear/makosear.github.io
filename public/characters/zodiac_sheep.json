@@ -1,0 +1,31 @@
+{
+  "flair": "",
+  "id": "zodiac_sheep",
+  "name": "Sheep",
+  "sprites": [
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/00.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/01.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/02.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/03.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/04.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/05.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/06.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/07.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/08.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/09.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/10.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/11.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/12.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/13.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/14.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/15.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/16.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/17.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/18.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/19.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/20.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/21.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/22.png",
+    "https://ik.imagekit.io/drrp/sprites/zodiac_sheep/23.png"
+  ]
+}

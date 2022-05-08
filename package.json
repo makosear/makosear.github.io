@@ -1,0 +1,27 @@
+{
+  "name": "drrp-composer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "vulniq",
+  "contributors": [
+    "makosear",
+    "ninja"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.2",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.8"
+  },
+  "dependencies": {
+    "vue": "^3.2.33",
+    "vue-dndrop": "^1.2.2"
+  }
+}

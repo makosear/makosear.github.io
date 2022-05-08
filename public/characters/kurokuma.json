@@ -1,0 +1,12 @@
+{
+  "name": "kurokuma",
+  "sprites": {
+    "00.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/00.png",
+    "01.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/01.png",
+    "02.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/02.png",
+    "03.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/03.png",
+    "04.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/04.png",
+    "05.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/05.png",
+    "06.png": "https://ik.imagekit.io/drrp/sprites/kurokuma/06.png"
+  }
+}
