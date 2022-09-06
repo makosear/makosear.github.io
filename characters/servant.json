@@ -1,0 +1,24 @@
+{
+    "name": "servant",
+    "sprites": {
+        "00.png": "https://abimon.org/dr/busts/udg/resized/nagito/00.png",
+		"01.png": "https://abimon.org/dr/busts/udg/resized/nagito/01.png",
+		"02.png": "https://abimon.org/dr/busts/udg/resized/nagito/02.png",
+		"03.png": "https://abimon.org/dr/busts/udg/resized/nagito/03.png",
+		"04.png": "https://abimon.org/dr/busts/udg/resized/nagito/04.png",
+		"05.png": "https://abimon.org/dr/busts/udg/resized/nagito/05.png",
+		"06.png": "https://64.media.tumblr.com/1bf80285002b2591d8905e0f6beed803/d5b9300539f578e7-a5/s1280x1920/1b031c9ffa37800fa5be2fd7af2936eb750eed84.png",
+		"07.png": "https://64.media.tumblr.com/e126d88be2127628c54c5ff53a5cd414/d5b9300539f578e7-88/s1280x1920/d879882cedd61c309a8a1d5625fb1055a15fdf9a.png",
+		"08.png": "https://64.media.tumblr.com/5c6c43da1f4b68040952ec0afea8d19f/d5b9300539f578e7-ee/s1280x1920/6e67ec3bee88ac78b5bd8e11d492f07959906faa.png",
+		"09.png": "https://i.imgur.com/6vG4wQy.png",
+		"10.png": "https://i.imgur.com/T8oikdw.png",
+		"11.png": "https://i.imgur.com/b35LOoo.png",
+		"12.png": "https://i.imgur.com/mIYApd9.png",
+		"13.png": "https://i.imgur.com/2H0ZLvF.png",
+		"14.png": "https://i.imgur.com/pQpRFcu.png",
+		"15.png": "https://i.imgur.com/LvfPLFX.png",
+		"16.png": "https://i.imgur.com/nJiggWZ.png",
+		"17.png": "https://i.imgur.com/Zb1xqy0.png"
+    }
+
+}
