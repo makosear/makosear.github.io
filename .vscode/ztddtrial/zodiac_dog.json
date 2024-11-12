@@ -1,0 +1,24 @@
+{
+    "name": "Dog",
+    "id": "zodiac_dog",
+    "flair": "",
+    "sprites": [
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/00.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/01.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/02.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/03.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/04.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/05.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/06.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/07.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/08.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/09.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/10.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/11.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/12.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/13.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/14.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/15.png",
+      "https://ik.imagekit.io/drrp/sprites/zodiac_dog/16.png"
+    ]
+  }
